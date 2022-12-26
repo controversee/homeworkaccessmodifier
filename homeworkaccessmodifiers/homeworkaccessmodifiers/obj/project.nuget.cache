@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiKBHz6AWQJbn7esj+UV8DrEsU9Igp1UcQTHOU2tjKhAXWJsrijbkxaLHPK17LS9kKGfbJAawQ4cdZQsgIFTzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\homeworkaccessmodifiers\\homeworkaccessmodifiers\\homeworkaccessmodifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

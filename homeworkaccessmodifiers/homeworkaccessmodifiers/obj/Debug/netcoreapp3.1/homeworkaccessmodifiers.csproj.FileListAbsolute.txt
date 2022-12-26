@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.exe
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.deps.json
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.dll
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\bin\Debug\netcoreapp3.1\homeworkaccessmodifiers.pdb
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.dll
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.pdb
+C:\Users\Lenovo\source\repos\homeworkaccessmodifiers\homeworkaccessmodifiers\obj\Debug\netcoreapp3.1\homeworkaccessmodifiers.genruntimeconfig.cache
